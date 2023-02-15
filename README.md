@@ -90,5 +90,3 @@ https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerab
 - [GraphQL API](https://docs.github.com/en/free-pro-team@latest/graphql)
   - [RepositoryVulnerabilityAlert](https://docs.github.com/en/free-pro-team@latest/graphql/reference/objects#repositoryvulnerabilityalert)
 - [REST API](https://docs.github.com/en/free-pro-team@latest/rest)
-
-Access token = "ghp_uwGynfPauBOcxNqxxxxxxxxxxx"
